@@ -1,0 +1,83 @@
+CREATE (n:商业1F {`铺位号
+Unit_number`: 'D-L101', `商户名称`: 'TIMS', `业态
+Type_of_Business`: '咖啡西点
+Coffee & dessert', `联系人`: '芮旭晴18602527343'}) RETURN n
+CREATE (n:商业1F {`铺位号
+Unit_number`: 'D-L102', `商户名称`: '丽华餐厅', `业态
+Type_of_Business`: '中式快餐
+Chinese fast food', `联系人`: '杨伟13816487817'}) RETURN n
+CREATE (n:商业1F {`铺位号
+Unit_number`: 'D-L103', `商户名称`: '新食界', `业态
+Type_of_Business`: '中式快餐
+Chinese fast food', `联系人`: '徐鑫磊18721255961'}) RETURN n
+CREATE (n:商业1F {`铺位号
+Unit_number`: 'D-L104', `商户名称`: '星巴克', `业态
+Type_of_Business`: '咖啡西点
+Coffee & dessert', `联系人`: '宋玲玲13651937207'}) RETURN n
+CREATE (n:商业1F {`铺位号
+Unit_number`: 'D-L105', `商户名称`: '德克士', `业态
+Type_of_Business`: '西式快餐
+Western fast food', `联系人`: '王涛  18993368220'}) RETURN n
+CREATE (n:商业1F {`铺位号
+Unit_number`: 'D-L106', `商户名称`: '裕兴记', `业态
+Type_of_Business`: '中式快餐
+Chinese fast food', `联系人`: '欧小虎15056152919'}) RETURN n
+CREATE (n:商业1F {`铺位号
+Unit_number`: 'D-L107', `商户名称`: '米坊源私厨', `业态
+Type_of_Business`: '中式快餐
+Chinese fast food', `联系人`: '廖小燕13311766686'}) RETURN n
+CREATE (n:商业1F {`铺位号
+Unit_number`: 'D-L108', `商户名称`: '永和豆浆', `业态
+Type_of_Business`: '中式快餐
+Chinese fast food', `联系人`: '季怀江15900699344'}) RETURN n
+CREATE (n:商业1F {`铺位号
+Unit_number`: 'D-L109', `商户名称`: '真功夫', `业态
+Type_of_Business`: '中式快餐
+Chinese fast food', `联系人`: '彭贞雅15202123130'}) RETURN n
+CREATE (n:商业1F {`铺位号
+Unit_number`: 'D-L110', `商户名称`: '唐臻庐', `业态
+Type_of_Business`: '日式简餐
+Japanese fast food', `联系人`: '陆朴13917962494'}) RETURN n
+CREATE (n:商业1F {`铺位号
+Unit_number`: 'D-L111', `商户名称`: '老娘舅', `业态
+Type_of_Business`: '中式快餐
+Chinese fast food', `联系人`: '吴春明15802124461'}) RETURN n
+CREATE (n:商业1F {`铺位号
+Unit_number`: 'D-L112', `商户名称`: '太平洋咖啡', `业态
+Type_of_Business`: '咖啡西点
+Coffee & dessert', `联系人`: '李燕13524492925'}) RETURN n
+CREATE (n:商业1F {`铺位号
+Unit_number`: 'D-L112-1', `商户名称`: '斐石', `业态
+Type_of_Business`: '咖啡西点
+Coffee & dessert', `联系人`: '吴文渊17701834385'}) RETURN n
+CREATE (n:商业1F {`铺位号
+Unit_number`: 'D-L113', `商户名称`: '康师傅牛肉面', `业态
+Type_of_Business`: '中式快餐
+Chinese fast food', `联系人`: '吴保进15821166413'}) RETURN n
+CREATE (n:商业1F {`铺位号
+Unit_number`: 'D-L114、220', `商户名称`: '肯德基', `业态
+Type_of_Business`: '西式快餐
+Western fast food', `联系人`: '许二梅18321010162'}) RETURN n
+CREATE (n:商业1F {`铺位号
+Unit_number`: 'D-L115', `商户名称`: '麝香猫咖啡', `业态
+Type_of_Business`: '咖啡西点
+Coffee & dessert', `联系人`: '朱瑞瑞15821595212'}) RETURN n
+CREATE (n:商业1F {`铺位号
+Unit_number`: 'D-L116', `商户名称`: '香榭巴黎', `业态
+Type_of_Business`: '咖啡西点
+Coffee & dessert', `联系人`: '曹丽鸣13917025597'}) RETURN n
+CREATE (n:商业1F {`铺位号
+Unit_number`: 'D-L117', `商户名称`: '德克士', `业态
+Type_of_Business`: '西式快餐
+Western fast food', `联系人`: '韩俊华15617097102'}) RETURN n
+CREATE (n:商业1F {`铺位号
+Unit_number`: 'D-L118', `商户名称`: '得意大厨', `业态
+Type_of_Business`: '中式快餐
+Chinese fast food', `联系人`: '陈虎15262172881'}) RETURN n
+CREATE (n:商业1F {`铺位号
+Unit_number`: 'D-L119', `商户名称`: '粤侬粤好', `业态
+Type_of_Business`: '中式快餐
+Chinese fast food', `联系人`: '陆莲芬13685536025'}) RETURN n
+CREATE (n:商业1F {`铺位号
+Unit_n
+加载更多
